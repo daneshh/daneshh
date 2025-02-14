@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on EZping.ir - EZTF2.com - EZping Desktop application<br>👯 I’m looking to collaborate on Steam Trading platform bots written via node.js<br>🌱 I’m currently learning C#<br>💬 Everyone can ask me about Node.js Steam bots
+🔭 I’m currently working on EZping.ir - EZTF2.com - EZping Desktop application<br>👯 I’m looking to collaborate on Steam Trading platform bots written via node.js<br>🌱 I’m currently learning Next.js<br>💬 Everyone can ask me about Node.js Steam bots
 
 
 ## 🌐 Socials:
